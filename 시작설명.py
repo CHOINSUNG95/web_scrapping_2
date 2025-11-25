@@ -13,6 +13,11 @@
 #git add .
 #git commit -m "세팅"
 
+#2.5 VSC 파일 업데이트하는 방법: git에 들어가서 
+#1) git add .
+#2) git push origin master
+
+
 #3. 가상환경 open
 #Terminal에서 cd scripts
 #activate 실행
